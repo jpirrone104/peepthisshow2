@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Calm",
+    "image": "./images/calm.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chance",
+    "image": "./images/chance.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Chicken",
+    "image": "./images/chicken.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Document",
+    "image": "./images/document.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Loser",
+    "image": "./images/loser.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Party",
+    "image": "./images/party.jpg"
+  },
+  {
+    "id": 7,
+    "name": "People",
+    "image": "./images/people.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Petty",
+    "image": "./images/petty.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Snake",
+    "image": "./images/snake.png"
+  },
+  {
+    "id": 10,
+    "name": "Tennis",
+    "image": "./images/tennis.png"
+  },
+  {
+    "id": 11,
+    "name": "Ven",
+    "image": "images/Ven.png"
+  },
+  {
+    "id": 12,
+    "name": "Wall",
+    "image": "./images/wall.jpg"
+  }
+]
